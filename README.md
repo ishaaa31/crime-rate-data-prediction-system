@@ -1,15 +1,15 @@
 # crime-rate-data-prediction-system
 
 ABOUT THIS PROJECT:
-Crime is a violation of humanity, often punishable by law. Criminology is a study of crime, interdisciplinary science that investigates and investigates crime and criminal performance data. 
-Criminal activity is now high and the police department is responsible for controlling and reducing criminal activity. There has been tremendous increase in machine learning algorithms that have made crime prediction feasible based on past data.
 
-The aim of this project is to perform analysis and prediction of crimes in states using machine learning models. It focuses on creating a model that can help to detect the number of crimes by its type in a particular state.
+Crime is a violation of humanity, often punishable by law. Criminology is a study of crime, interdisciplinary science that investigates and investigates crime and criminal performance data. Criminal activity is now high and the police department is responsible for controlling and reducing criminal activity. 
+
+There has been tremendous increase in machine learning algorithms that have made crime prediction feasible based on past data. The aim of this project is to perform analysis and prediction of crimes in states using machine learning models. It focuses on creating a model that can help to detect the number of crimes by its type in a particular state.
+
 In this project various machine learning models like linear regression, boosted decision trees will be used to predict crimes. Various visualization techniques and plots are used which can help law enforcement agencies to detect and predict crimes with higher accuracy. 
 This will indirectly help reduce the rates of crimes and can help to improve securities in such required areas.
 
 DATA ANALYSIS:
-Data Exploration
 The dataset is in a tabular form and includes chronological, geographical and text data and contains incidents derived from the SFPD Crime Incident Reporting system.
 
 More specifically it includes the following variables.
