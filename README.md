@@ -10,15 +10,23 @@ In this project various machine learning models like linear regression, boosted 
 This will indirectly help reduce the rates of crimes and can help to improve securities in such required areas.
 
 DATA ANALYSIS:
+
 The dataset is in a tabular form and includes chronological, geographical and text data and contains incidents derived from the SFPD Crime Incident Reporting system.
 
 More specifically it includes the following variables.
+
 Dates - timestamp of the crime incident
+
 Category - category of the crime incident. (This is our target variable.)
+
 Descript - detailed description of the crime incident
+
 DayOfWeek - the day of the week
+
 PdDistrict - the name of the Police Department DistricT
+
 Address - the approximate street address of the crime incident
+
 X - Longitude
 Y - Latitude
 
