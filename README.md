@@ -9,6 +9,16 @@ There has been tremendous increase in machine learning algorithms that have made
 In this project various machine learning models like linear regression, boosted decision trees will be used to predict crimes. Various visualization techniques and plots are used which can help law enforcement agencies to detect and predict crimes with higher accuracy. 
 This will indirectly help reduce the rates of crimes and can help to improve securities in such required areas.
 
+DATASET:
+
+/content/crime_rate.csv
+
+PPT:
+
+https://in.docworkspace.com/d/sIAqxk9GnAe-ykZwG
+
+
+
 DATA ANALYSIS:
 
 The dataset is in a tabular form and includes chronological, geographical and text data and contains incidents derived from the SFPD Crime Incident Reporting system.
@@ -29,6 +39,10 @@ Address - the approximate street address of the crime incident
 
 X - Longitude
 Y - Latitude
+
+COLLAB:
+
+https://colab.research.google.com/drive/1NpUqk_Yqs9H1I0OXJOs_5_DNsO5J3jL9#scrollTo=HtX9Mjrx9QRc&uniqifier=5
 
 CONCLUSION:
 In this system, we get to classify and cluster to improve the accuracy of location and pattern-based crimes. From the clustered results it is easy to identify crime prone areas and can be used to design precaution methods for future.
